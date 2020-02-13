@@ -1,0 +1,21 @@
+.base {
+  cursor: pointer;
+  padding: 3px;
+  background-color: transparent;
+  border: 1px solid black;
+}
+.base:hover {
+ border: 1px solid gray;
+}
+
+.green {
+  color: #81a481;
+}
+
+.red {
+  color: #dc0300;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}

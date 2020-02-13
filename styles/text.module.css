@@ -1,0 +1,11 @@
+.green {
+  color: #81a481;
+}
+
+.red {
+  color: #dc0300;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
